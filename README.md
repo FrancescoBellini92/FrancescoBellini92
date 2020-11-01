@@ -1,16 +1,16 @@
-### Hi there 👋
+### Francesco Bellini
+[![Linkedin Badge](https://img.shields.io/badge/-Francesco_Bellini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francescobellini92//)](https://www.linkedin.com/in/francescobellini92/) [![Gmail Badge](https://img.shields.io/badge/-francescobellini92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francescobellini92@gmail.com)](mailto:francescobellini92@gmail.com)
 
-<!--
-**FrancescoBellini92/FrancescoBellini92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Francesco, a passionate front end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### About
+-  **Languages :** Javascript, Typescript, Python, PHP, SASS
+-  **Frameworks :** Angular, Ionic, React
+-  **Hobbies :** Videogames, trekking and of course programming :man_technologist: :man_technologist: :man_technologist:
+-  **Current role**: Working as a front end developer with the awesome people of [AzzurroDigitale](https://www.azzurrodigitale.com/)
+
+
+ 
