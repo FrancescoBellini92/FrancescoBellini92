@@ -10,7 +10,7 @@ Hi, I'm Francesco, a passionate front end developer with a particular interest f
 -  **Languages :** Javascript, Typescript, Python, PHP, SASS, SQL
 -  **Frameworks :** Angular, Ionic, React
 -  **Hobbies :** Videogames, trekking and of course programming :man_technologist: :man_technologist: :man_technologist:
--  **Current role**: Working as a front end developer at Accenture Italy
+-  **Current role**: Working as a front end developer at Accenture
 
 
  
