@@ -4,12 +4,5 @@
 
 Hi, I'm Francesco, a passionate front end developer with a particular interest for single page applications, progressive web apps and hybrid mobile apps.
 
-#
-
-### About
--  **Languages :** Javascript, Typescript, Python, PHP, SASS, SQL
--  **Frameworks :** Angular, Ionic, React
--  **Hobbies :** Videogames, trekking and of course programming :man_technologist: :man_technologist: :man_technologist:
-
 
  
